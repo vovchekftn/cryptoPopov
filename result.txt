@@ -1,5 +1,0 @@
-Original Text: Hello, World!
-
-Encrypted Text: p]TTWoWJT\2
-Decrypted Text: Hello, World!
-
