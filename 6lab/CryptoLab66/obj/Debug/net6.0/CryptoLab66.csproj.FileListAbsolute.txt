@@ -1,0 +1,14 @@
+F:\C#\CryptoLab66\CryptoLab66\bin\Debug\net6.0\CryptoLab66.exe
+F:\C#\CryptoLab66\CryptoLab66\bin\Debug\net6.0\CryptoLab66.deps.json
+F:\C#\CryptoLab66\CryptoLab66\bin\Debug\net6.0\CryptoLab66.runtimeconfig.json
+F:\C#\CryptoLab66\CryptoLab66\bin\Debug\net6.0\CryptoLab66.dll
+F:\C#\CryptoLab66\CryptoLab66\bin\Debug\net6.0\CryptoLab66.pdb
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.AssemblyInfoInputs.cache
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.AssemblyInfo.cs
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.csproj.CoreCompileInputs.cache
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.dll
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\refint\CryptoLab66.dll
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.pdb
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\CryptoLab66.genruntimeconfig.cache
+F:\C#\CryptoLab66\CryptoLab66\obj\Debug\net6.0\ref\CryptoLab66.dll

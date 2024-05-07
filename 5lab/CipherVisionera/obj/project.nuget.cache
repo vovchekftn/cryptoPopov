@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWyAc4y6sGMlR4Q2yIvp5P3MSP/T5qbmhepEr3/yJVhKCF+EZ3pFTjRvSFIOIydISWAAyXaxj+yfIsOGLyxeFw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\CipherVisionera\\CipherVisionera\\CipherVisionera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

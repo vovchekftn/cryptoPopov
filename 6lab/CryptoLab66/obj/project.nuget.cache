@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hrt2NvGcRcL+f0JxKya7gehSgxTcTlFiFWADY1FW3ippbVvzOzvt2B6K+F7ncSP3Fqmbu5ELRp/1S7cECpZYA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\CryptoLab66\\CryptoLab66\\CryptoLab66.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Markian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

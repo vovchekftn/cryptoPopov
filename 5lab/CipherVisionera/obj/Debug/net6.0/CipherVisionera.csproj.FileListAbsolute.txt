@@ -1,0 +1,14 @@
+F:\C#\CipherVisionera\CipherVisionera\bin\Debug\net6.0\CipherVisionera.exe
+F:\C#\CipherVisionera\CipherVisionera\bin\Debug\net6.0\CipherVisionera.deps.json
+F:\C#\CipherVisionera\CipherVisionera\bin\Debug\net6.0\CipherVisionera.runtimeconfig.json
+F:\C#\CipherVisionera\CipherVisionera\bin\Debug\net6.0\CipherVisionera.dll
+F:\C#\CipherVisionera\CipherVisionera\bin\Debug\net6.0\CipherVisionera.pdb
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.AssemblyInfoInputs.cache
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.AssemblyInfo.cs
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.csproj.CoreCompileInputs.cache
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.dll
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\refint\CipherVisionera.dll
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.pdb
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\CipherVisionera.genruntimeconfig.cache
+F:\C#\CipherVisionera\CipherVisionera\obj\Debug\net6.0\ref\CipherVisionera.dll
